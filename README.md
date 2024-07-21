@@ -62,6 +62,7 @@ I am highlighting this below:
     text-align: center; 
     display: none;
   }
+```
 
 ### Continued development
 
